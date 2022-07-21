@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<curriculo>
+<pessoa sexo="Feminino">
+
+<nome>Isabelle Francisco Teixeira</nome>
+
+<idade> 16 anos</idade>
+</pessoa>
+<nascimento> 08/02/2006</nascimento>
+
+<telefone> +55 (22) 9988-5852</telefone>
+
+<nacionalidade> Brasileira </nacionalidade>
+
+<endereco> Rua do vai e vem </endereco>
+<cep>"2862-9478"</cep>
+
+<esc>CEFET</esc>
+<escola> Ensino Médio completo</escola>
+
+<faculdade> odontologia </faculdade>
+
+</curriculo>
