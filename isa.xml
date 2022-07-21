@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<receituario>
+<paciente nome="Ana Maria Marina"/>
+<idade> 7 anos </idade>
+<remedio>
+<xarope uso="interno" nome= "xarope sem tosse"> 1 colher 3x ao dia</xarope>
+<xarope uso="externo" nome ="gyellow"> aplicar ao braço 1x ao dia ao deitar </xarope>
+</remedio>
+<doutor nome= "Dr. juca"/>
+</receituario>
+
